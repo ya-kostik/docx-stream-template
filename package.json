@@ -1,0 +1,31 @@
+{
+  "name": "docx-stream-template",
+  "version": "1.0.0",
+  "description": "Simple stream template engine for create docx files in NodeJS",
+  "main": "DOCXTemplate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ya-kostik/docx-stream-template.git"
+  },
+  "keywords": [
+    "docx",
+    "template",
+    "stream",
+    "variables",
+    "template",
+    "engine",
+    "docx",
+    "template",
+    "create",
+    "docx"
+  ],
+  "author": "Constantin T.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ya-kostik/docx-stream-template/issues"
+  },
+  "homepage": "https://github.com/ya-kostik/docx-stream-template#readme"
+}
