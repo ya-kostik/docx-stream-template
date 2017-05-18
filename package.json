@@ -1,6 +1,6 @@
 {
   "name": "docx-stream-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple stream template engine for create docx files in NodeJS",
   "main": "template.js",
   "scripts": {
